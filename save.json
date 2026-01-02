@@ -1,0 +1,14 @@
+{
+    "capitulo": 4,
+    "jogador": {
+        "nome": "joca",
+        "energia": 1,
+        "fome": 5,
+        "inventario": [],
+        "sanidade": 81,
+        "viu_corpo": false,
+        "atendeu_telefone": true,
+        "suplemento": true,
+        "ficou_no_escuro": true
+    }
+}
