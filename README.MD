@@ -40,7 +40,7 @@ python main.py
 
 ---
 
-🔮 Próximas atualizações
+## 🔮 Próximas atualizações
 
 - Mais capítulos aterrorizantes 👹
 - Sistema de inventário maluco 🧪
@@ -49,9 +49,10 @@ python main.py
 
 ---
 
-💬 Quer acompanhar a loucura?
+## 💬 Quer acompanhar a loucura?
 
 Código aberto no GitHub e em constante evolução.
 Se você ama programação, RPG e histórias meio doidas, dá uma olhada e não se assuste com o calor 🔥👀
 
 ---
+
