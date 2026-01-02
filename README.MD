@@ -27,19 +27,6 @@ Esse projeto é minha primeira **demo de RPG interativo em Python**, onde você:
 
 ---
 
-## 🚀 Como jogar
-1. Clone o repositório:
-```bash
-git clone https://github.com/SEU-USUARIO/RPG-Calor-Residual.git
-2. Entre na pasta
-cd RPG-Calor-Residual
-3. Rode o codigo
-python main.py
-
-⚡ Dica: se o sol estiver muito quente, não esqueça de abrir a sombrinha ☂️😎
-
----
-
 ## 🔮 Próximas atualizações
 
 - Mais capítulos aterrorizantes 👹
@@ -56,3 +43,13 @@ Se você ama programação, RPG e histórias meio doidas, dá uma olhada e não 
 
 ---
 
+## 🚀 Como jogar
+1. Clone o repositório:
+```bash
+git clone https://github.com/SEU-USUARIO/RPG-Calor-Residual.git
+2. Entre na pasta
+cd RPG-Calor-Residual
+3. Rode o codigo
+python main.py
+
+⚡ Dica: se o sol estiver muito quente, não esqueça de abrir a sombrinha ☂️😎
